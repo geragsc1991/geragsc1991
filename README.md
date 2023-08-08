@@ -1,16 +1,11 @@
+### Hola! 👋
+👨‍💼 Soy Gerardo Sanchez, cientifico de datos, analista de negocios y licenciado en administración.
+🚀 Un apasionado de estos dos mundos como lo son los negocios y la tecnología.
+👯 Estoy buscando colaborar en negocios y estrategia digital.
+📫: Puedes escribirme a gerasanchezcorzo@gmail.com.
+
 ### Hi there 👋
-
-<!--
-**geragsc1991/geragsc1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💼 I am Gerardo Sanchez, data scientist, business analyst y bachelor of administration.
+🚀 Passionate about these two worlds such as business and technology.
+👯 I’m looking to collaborate on business & digital strategy.
+📫: How to reach me: gerasanchezcorzo@gmail.com.
