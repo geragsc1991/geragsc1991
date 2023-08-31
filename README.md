@@ -1,5 +1,5 @@
 ### Hola! 👋
- - 👨‍💼 Soy Gerardo Sanchez, cientifico de datos, analista de negocios y licenciado en administración.
+ - 👨‍💼 Soy Gerardo Sanchez, científico de datos, analista de negocios y licenciado en administración.
  - 🚀 Un apasionado de estos dos mundos como lo son los negocios y la tecnología.
  - 👯 Estoy buscando colaborar en negocios y estrategia digital.
  - 📫 Puedes escribirme a gerasanchezcorzo@gmail.com.
